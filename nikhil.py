@@ -1,0 +1,11 @@
+def print_birthday_message(Kshitija):
+    print("  __ _ _            _    _           _       ")
+    print(" /  _ () |          | |  | |         (_)      ")
+    print("|  /  \/| |   _  _| | | |_   _ _ _ _ _  ")
+    print("|  |   | | | | | |/ _ \ |/ / '_ \ / ` | | ' \ ")
+    print("|  \_/\ | | || |  _/   <| | | | (| | | | | |")
+    print(" \__/||\_,|\__||\_\_| ||\, ||| ||")
+    print("                                   __/ |         ")
+    print("                                  |_/          ")
+    print("Happy Birthday " + Kshitija + "!")
+    print("Wishing you a day filled with happiness and joy!")

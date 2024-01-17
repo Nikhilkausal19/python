@@ -1,0 +1,4 @@
+x=float(4)
+y=float("1")
+print(f"After integer to float casting the result is {x}")
+print(f"After integer to float casting the result is {y}")
